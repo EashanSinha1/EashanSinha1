@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EashanSinha1
 - 👀 I’m interested in building applications, particularly grounded in AI/ML, to pose solutions to current problems.
-- 🌱 I’m currently learning Systems Architecture, Statistics, Artificial Intelligence, Machine Learning, and Computer Vision
+- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Computer Vision, Graduate Algorithms, and Complexity Theory
 - 💞️ I’m looking to collaborate on projects in any of the above areas
 - 📫 Reach me at eashan.sinha@gmail.com or esinha6@gatech.edu
